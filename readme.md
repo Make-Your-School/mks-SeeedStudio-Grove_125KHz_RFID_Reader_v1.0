@@ -36,11 +36,11 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 <!-- infolist -->
 
 <!-- infolists -->
- 
+ 
 
 https://www.youtube.com/watch?v=dJXTgtIMUPw
 
- 
+ 
 
 ## Wichtige Links für die ersten Schritte:
 
