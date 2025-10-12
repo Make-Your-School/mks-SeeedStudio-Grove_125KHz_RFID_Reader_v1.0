@@ -3,7 +3,7 @@ title: 'RFID-Leser'
 date: '2018-10-01T14:44:10.000Z'
 tags:
     - 'sensor'
-coverImage: '52_rfid_leser.jpg'
+coverImage: '52_rfid_leser.png'
 material_number: '52'
 material_type: 'sensor'
 material_short_descr: 'Seeed Studio Grove – 125KHz RFID Reader'
