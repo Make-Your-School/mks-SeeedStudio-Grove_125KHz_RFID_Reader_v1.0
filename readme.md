@@ -41,9 +41,6 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 Zusätzlich findet man über alle gängigen Suchmaschinen meist nur mit der Eingabe der genauen Komponenten-Bezeichnungen entsprechende Projektbeispiele und Tutorials.
 
 
-@[youtube](https://www.youtube.com/watch?v=dJXTgtIMUPw)
-
-
 ## Anschlüsse
 
 ### Eingang
@@ -90,7 +87,7 @@ Um dieses Bauteil zu verwenden, wird lediglich die Bibliothek "SoftwareSerial" b
 
 ### Video
 
-@[youtube](https://www.youtube-nocookie.com/embed/dJXTgtIMUPw?si=BcOwoU9WhtPMKLse)
+@[youtube](https://www.youtube.com/watch?v=dJXTgtIMUPw)
 
 ## Siehe Auch
 
