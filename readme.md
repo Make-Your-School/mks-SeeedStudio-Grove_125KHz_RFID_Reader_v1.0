@@ -72,16 +72,15 @@ Um dieses Bauteil zu verwenden, wird lediglich die Bibliothek "SoftwareSerial" b
 
 ## Beispiel
 
-Der Beispiel-Code ist (vorerst) im Ordner "examples" zu finden.
-
-```c++:./examples/GroveSerialBluetoothV3.0_minimal/GroveSerialBluetoothV3.0_minimal.ino
-./examples/GroveSerialBluetoothV3.0_minimal/GroveSerialBluetoothV3.0_minimal.ino
+```c++:./examples/Grove_125KHz_RFID_Reader_v1.0_minimal/Grove_125KHz_RFID_Reader_v1.0_minimal.ino
+// ./examples/Grove_125KHz_RFID_Reader_v1.0_minimal/Grove_125KHz_RFID_Reader_v1.0_minimal.ino
 ```
 
-<!-- TODO:  include example *_minimal.ino-->
+## Beispiele
+
+!!!show-examples:./examples/
 
 ## Anleitung
-
 
 ### Grundsätzlich:
 
@@ -91,7 +90,7 @@ Der Beispiel-Code ist (vorerst) im Ordner "examples" zu finden.
 
 ### Video
 
-@[youtube](https://www.youtube.com/embed/dJXTgtIMUPw?si=BcOwoU9WhtPMKLse)
+@[youtube](https://www.youtube-nocookie.com/embed/dJXTgtIMUPw?si=BcOwoU9WhtPMKLse)
 
 ## Siehe Auch
 
