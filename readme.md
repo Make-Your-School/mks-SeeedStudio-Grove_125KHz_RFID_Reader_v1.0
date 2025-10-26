@@ -67,12 +67,6 @@ Zusätzlich findet man über alle gängigen Suchmaschinen meist nur mit der Eing
 Um dieses Bauteil zu verwenden, wird lediglich die Bibliothek "SoftwareSerial" benötigt.
 (diese ist schon fest in die Arduino IDE integriert - du musst nichts installieren.)
 
-## Beispiel
-
-```c++:./examples/Grove_125KHz_RFID_Reader_v1.0_minimal/Grove_125KHz_RFID_Reader_v1.0_minimal.ino
-// ./examples/Grove_125KHz_RFID_Reader_v1.0_minimal/Grove_125KHz_RFID_Reader_v1.0_minimal.ino
-```
-
 ## Beispiele
 
 !!!show-examples:./examples/
